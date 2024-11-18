@@ -1,0 +1,25 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+
+# Bỏ qua các file cụ thể
+knn_model.pkl
+Scaler.ipynb
+
+# Một số mẫu thông dụng khác
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+.ipynb_checkpoints/
+.svn/
+.hg/
+.git/
+.idea/
+.vscode/
+data/
+dist/
+build/
